@@ -21,8 +21,6 @@ The project is designed with **Object-Oriented Programming (OOP)** principles:
 
 ## How to Run
 
-## How to Run
-
 1. Install dependencies:
    ```bash
    pip install nlpcloud
